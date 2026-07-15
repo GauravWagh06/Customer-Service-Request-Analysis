@@ -1,8 +1,6 @@
 # Customer-Service-Request-Analysis
 Customer Service Request Analysis using Python, Exploratory Data Analysis (EDA), Data Visualization, and Statistical Analysis on the NYC 311 Service Requests Dataset.
 
-# Customer Service Request Analysis
-
 ## Project Overview
 
 This project analyzes the NYC 311 Customer Service Requests dataset using Python.
