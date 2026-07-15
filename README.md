@@ -1,7 +1,7 @@
-# Customer-Service-Request-Analysis
+## Customer-Service-Request-Analysis
 Customer Service Request Analysis using Python, Exploratory Data Analysis (EDA), Data Visualization, and Statistical Analysis on the NYC 311 Service Requests Dataset.
 
-## Project Overview
+### Project Overview
 
 This project analyzes the NYC 311 Customer Service Requests dataset using Python.
 
@@ -14,7 +14,7 @@ The project includes:
 - Response Time Analysis
 - Statistical Analysis
 
-## Technologies Used
+### Technologies Used
 
 - Python
 - Pandas
@@ -24,11 +24,11 @@ The project includes:
 - SciPy
 - Jupyter Notebook
 
-## Dataset
+### Dataset
 
 NYC 311 Service Requests Dataset
 
-## Project Workflow
+### Project Workflow
 
 - Import Dataset
 - Data Cleaning
@@ -40,6 +40,6 @@ NYC 311 Service Requests Dataset
 - Statistical Testing
 - Final Insights
 
-## Author
+### Author
 
 Gaurav Wagh
